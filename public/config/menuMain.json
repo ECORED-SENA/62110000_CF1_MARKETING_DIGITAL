@@ -61,7 +61,27 @@
     "slug": "segmentacion_mercados",
     "title": "3. Segmentación de mercados",
     "breadcrumb": ["Inicio", "Segmentación de mercados"],
-    "path": "pages/tema-3.html"    
+    "path": "pages/tema-3.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "segmentacion_mercados",
+        "title": "3.1 Etapas del proceso de segmentación",
+        "anchor": "tema3_1"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "segmentacion_mercados",
+        "title": "3.2 Criterios de segmentación",
+        "anchor": "tema3_2"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "segmentacion_mercados",
+        "title": "3.3 Macro y microsegmentación",
+        "anchor": "tema3_3"
+      } 
+    ]   
   },
   {
     "id": 4,
