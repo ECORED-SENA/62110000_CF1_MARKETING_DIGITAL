@@ -4,7 +4,15 @@
     "slug": "external",
     "title": "Volver al inicio",
     "path": "index.html"
-  },       
+  },   
+  {
+    "id": 0,
+    "icon": "fa fa-play",
+    "slug": "introduccion",
+    "title": "Introducción",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/introduccion.html"
+  },
   {
     "id": 1,
     "icon": "fa fa-file-text",
